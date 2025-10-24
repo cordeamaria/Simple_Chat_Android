@@ -17,7 +17,7 @@
 ## Technology Stack
 
 - **Android:** Java, Android Studio
-- **Server:** Node.js, Express.js
+- **Server:** Node.js
 - **Database:** MySQL (local)
 - **Real-Time Communication:** Socket.IO
 - **Networking:** REST API endpoints for user and friend management
